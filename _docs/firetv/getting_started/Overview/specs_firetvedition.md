@@ -199,7 +199,7 @@
     </tr>
     <tr>
       <td>Networking: Ethernet</td>
-      <td>10/100Mbs</td>
+      <td>10/100/1000Mbs</td>
     </tr>
     <tr>
       <td>Bluetooth</td>
